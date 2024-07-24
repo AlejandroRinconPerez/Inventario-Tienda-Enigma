@@ -4,9 +4,7 @@
 <p align="center">
     <h1 align="left">INVENTARIO-TIENDA-ENIGMA</h1>
 </p>
-<p align="left">
-    <em>HTTP error 401 for prompt `slogan`</em>
-</p>
+
 <p align="left">
 	<img src="https://img.shields.io/github/license/AlejandroRinconPerez/Inventario-Tienda-Enigma?style=flat&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/AlejandroRinconPerez/Inventario-Tienda-Enigma?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
@@ -143,5 +141,7 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ## 📄 License
 no definida
+
+
 
 
