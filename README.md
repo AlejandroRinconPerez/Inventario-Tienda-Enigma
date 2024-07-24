@@ -138,7 +138,7 @@ Gracias por tu interés en contribuir a nuestro proyecto de Sistema de Facturaci
 ---
 
 ## 📄 License
-no definida
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
 
 
 
