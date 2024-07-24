@@ -12,7 +12,7 @@
 	<img src="https://img.shields.io/github/languages/count/AlejandroRinconPerez/Inventario-Tienda-Enigma?style=flat&color=0080ff" alt="repo-language-count">
 <p>
 <p align="left">
-		<em>Developed with the software and tools below.</em>
+		<em>Software Utilizado</em>
 </p>
 <p align="left">
 	<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
@@ -82,9 +82,9 @@ Este proyecto es un sistema de facturación desarrollado en Python. Sus principa
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Instalacion
 
-1. Clone el repositorio de Github:
+1. Clona el repositorio:
 
 ```sh
 git clone https://github.com/AlejandroRinconPerez/Inventario-Tienda-Enigma
@@ -108,7 +108,7 @@ python main.py
 
 
 
-## 🤝 Contributing
+## 🤝 Contribucion
 Gracias por tu interés en contribuir a nuestro proyecto de Sistema de Facturación desarrollado en Python. Para garantizar un flujo de trabajo organizado, por favor sigue estos pasos:
 
 1.  **Fork del Repositorio**: Realiza un fork de nuestro repositorio principal en tu cuenta de GitHub.
@@ -122,18 +122,16 @@ Gracias por tu interés en contribuir a nuestro proyecto de Sistema de Facturaci
    ```sh
    git checkout -b new-feature-x
    ```
-4. **Make Your Changes**: Develop and test your changes locally.
-5. **Commit Your Changes**: Commit with a clear message describing your updates.
+4. **Make Your Changes**: Desarrolla y prueba tus cambios locales.
+5. **Commit Your Changes**: Commit con los updates correctos.
    ```sh
    git commit -m 'Implemented new feature x.'
    ```
-6. **Push to GitHub**: Push the changes to your forked repository.
+6. **Push to GitHub**: Push Cambios.
    ```sh
    git push origin new-feature-x
    ```
-7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
-
-Once your PR is reviewed and approved, it will be merged into the main branch.
+7. **Submit a Pull Request**: PR contra el repositorio viejo 
 
 </details>
 
