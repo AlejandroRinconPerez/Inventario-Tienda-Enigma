@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-readme-is-a-easy-to-build-a-developer-hub-that-adapts-to-the-user-logo-regular-tal-revivo.png" width="100" />
+  <img src="[https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/external-readme-is-a-easy-to-build-a-developer-hub-that-adapts-to-the-user-logo-regular-tal-revivo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkAAEJ_9ZIIVfl_qnFfan7_FOtgxjTGdxAA&s)" width="100" />
 </p>
 <p align="center">
     <h1 align="left">INVENTARIO-TIENDA-ENIGMA</h1>
