@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkAAEJ_9ZIIVfl_qnFfan7_FOtgxjTGdxAA&s" width="150" />
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkAAEJ_9ZIIVfl_qnFfan7_FOtgxjTGdxAA&s" width="400" />
 </p>
 <p align="center">
     <h1 align="left">INVENTARIO-TIENDA-ENIGMA</h1>
